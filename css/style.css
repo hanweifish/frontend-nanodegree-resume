@@ -217,3 +217,7 @@ span {
     display: block;
   }
 }
+
+.project-image {
+  height: 250px;
+}
